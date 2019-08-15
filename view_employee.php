@@ -15,7 +15,7 @@ $view=$obj->viewEmployees();
     <tr>
       <th width="12%" scope="col">Employee ID</th>
       <th width="12%" scope="col">Full Name</th>
-      <th width="7%" scope="col">Email</th>
+      <th width="7%" scope="col">mero Email</th>
       <th width="9%" scope="col">UserName</th>
       <th width="9%" scope="col">Password</th>
       <th width="14%" scope="col">Phone Number</th>
