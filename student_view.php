@@ -1,1 +1,1 @@
-<>
+This is student view page
